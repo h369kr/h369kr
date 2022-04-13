@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
-- 🔭 I’m currently working on **on my DevOps skills**
+<!-- - 🔭 I’m currently working on **on my DevOps skills**
 
 - 🌱 I’m currently learning **Python & AWS**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **resources for being a self taught IT professional**
 
-- ⚡ Fun fact **I love computers.**
+- ⚡ Fun fact **I love computers.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
