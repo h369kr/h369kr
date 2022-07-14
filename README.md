@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
-<h4> - 🔭 I’m currently working on my Data Engineering skills*
+<h4> - 🔭 I’m currently working on my *Data Engineering skills*
 
 - 🌱 I’m currently learning *Azure (DP203)*
 
