@@ -30,9 +30,9 @@ A passionate self taught Data Engineer from INDIA.
 **Languages and Tools:**
 
 <p align="left">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://hadoop.apache.org/elephant.png" alt="hadoop" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.dataversity.net/wp-content/uploads/2015/06/spark-logo.png" alt="spark" width="40" height="40"/> </a>
   <a href="https://www.databricks.com/" target="_blank"> <img src="https://www.databricks.com/en-website-assets/static/e6b356d9819308e5133bac62bb1e81ff/db-logo-stacked-white-desktop.svg" alt="databricks" width="40" height="40"/> </a>
