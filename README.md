@@ -13,12 +13,12 @@ A passionate self taught Data Engineer from INDIA.
   <img align="left" alt="Harsh | LinkedIn" width="90px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@h369kr" target="_blank">
-  <img align="left" alt="Harsh | Medium" width="90px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://www.hackerrank.com/h369kr" target="_blank">
+  <img align="left" alt="Harsh | Hackerrank" width="90px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/h369kr" target="_blank">
-  <img align="left" alt="Harsh | Medium" width="90px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<a href="https://medium.com/@h369kr" target="_blank">
+  <img align="left" alt="Harsh | Medium" width="90px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <br>
