@@ -4,7 +4,7 @@ A passionate self taught Data Engineer from INDIA.
 
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning Hadoop, Spark, Databricks, Azure.
-- 💬 Ask me about anything (https://github.com/arjun-sudo/arjun-sudo/issues)
+- 💬 Ask me about data engineering
 - 📫 How to reach me: linux9630@gmail.com
 
 **Connect with me :**
