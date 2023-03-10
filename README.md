@@ -10,11 +10,11 @@ A passionate self taught Data Engineer from INDIA.
 **Connect with me :**
 
 <a href="https://www.linkedin.com/in/harsh-kumar-472393121/" target="_blank">
-  <img align="left" alt="Harsh | LinkedIn" width="30px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Harsh | LinkedIn" width="70px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@h369kr" target="_blank">
-  <img align="left" alt="Harsh | Medium" width="30px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img align="left" alt="Harsh | Medium" width="70px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <br>
