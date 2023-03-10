@@ -1,4 +1,4 @@
-### Hi there , I'm [Harsh Kumar !]👋
+### Hi there , I'm Harsh Kumar ! 👋
 
 A passionate self taught Data Engineer from INDIA.
 
