@@ -1,6 +1,6 @@
 ### Hi there , I'm Harsh Kumar ! 👋
 
-A passionate self taught Data Engineer from INDIA.
+A passionate self taught Data Engineer from INDIA 🇮🇳.
 
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning Hadoop, Spark, Databricks, Azure.
