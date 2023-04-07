@@ -52,6 +52,7 @@ A passionate self taught Data Engineer from INDIA.
 - [E-Learning Bridge](https://www.youtube.com/@shashank_mishra)
 - [Darshil Parmar](https://www.youtube.com/@DarshilParmar)
 - [Jash Radia](https://www.youtube.com/@JashRadia)
+- [Asli Engineering by Arpit Bhayani](https://www.youtube.com/@AsliEngineering)
 - [Gaurav Sen](https://www.youtube.com/@gkcs)
 - [Practice (SQL & PYTHON)](https://www.hackerrank.com/)
 <!-- LINKS:END -->
