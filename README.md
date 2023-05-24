@@ -57,8 +57,8 @@ A passionate self taught Data Engineer from INDIA 🇮🇳.
 - [Practice (SQL & PYTHON)](https://www.hackerrank.com/)
 <!-- LINKS:END -->
 
-
+<!--
 **Github Stats:**
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=h369kr&show_icons=true&include_all_commits=true&theme=dark" alt="Harsh's github stats" />
-  
+  -->
