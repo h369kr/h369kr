@@ -6,6 +6,7 @@ A passionate self taught Data Engineer from INDIA 🇮🇳.
 - 🌱 I’m currently learning Hadoop, Spark, Databricks, Azure.
 - 💬 Ask me about data engineering
 - 📫 How to reach me: linux9630@gmail.com
+- DP203 Certified
 
 **Connect with me :**
 
